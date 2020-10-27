@@ -1,0 +1,10 @@
+airplane
+basket
+basketball
+bed
+bus
+calculator
+cookie
+eyeglasses
+mushroom
+pizza

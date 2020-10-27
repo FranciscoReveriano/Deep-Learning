@@ -1,0 +1,10 @@
+class name: eyeglasses		number of samples: 5000
+class name: mushroom		number of samples: 5000
+class name: calculator		number of samples: 5000
+class name: basketball		number of samples: 5000
+class name: cookie		number of samples: 5000
+class name: bed		number of samples: 5000
+class name: airplane		number of samples: 5000
+class name: pizza		number of samples: 5000
+class name: bus		number of samples: 5000
+class name: basket		number of samples: 5000
